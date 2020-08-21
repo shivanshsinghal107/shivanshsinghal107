@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 😄 I am Shivansh, a Junior Undergrad at Computer Engineering Dept, NIT Surat.
+- ⚡ I am a Data Science enthusiast. I have been working in the field of data science from the past one year & doing backend web development in python as a side interest.
+- ✨ Working on different projects I have gained experiences in many fields, out of which my top skills are:
+  - Data Extraction/Web Crawling/Web Scraping
+  - Flask (micro-web framework of python)
+  - Data Cleaning/Wrangling & Data Analytics
+
 <!--
 **shivanshsinghal107/shivanshsinghal107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
